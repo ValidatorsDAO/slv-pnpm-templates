@@ -1,0 +1,3 @@
+packages:
+  - 'frontend-template/*'
+  - 'cf-workers-template/*'
